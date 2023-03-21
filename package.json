@@ -1,0 +1,26 @@
+{
+  "name": "cinefind",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "@splidejs/vue-splide": "^0.6.12",
+    "lodash": "^4.17.21",
+    "process": "^0.11.10",
+    "swiper": "^9.1.0",
+    "vue": "^3.2.45",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "dotenv": "^16.0.3",
+    "dotenv-webpack": "^8.0.1",
+    "vite": "^4.1.0"
+  }
+}
